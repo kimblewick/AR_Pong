@@ -145,10 +145,6 @@ Contributions are welcome! Feel free to:
 - Optimize performance or add platform support
 - Improve documentation
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 About
 
 This project demonstrates practical applications of:
