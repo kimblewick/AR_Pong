@@ -157,5 +157,3 @@ This project demonstrates practical applications of:
 Built as a portfolio project showcasing expertise in computer vision, Python development, and creative problem-solving.
 
 ---
-
-*Developed with ❤️ using OpenCV, MediaPipe, and Python* 
