@@ -85,6 +85,11 @@ python ar_hockey_pong_chessboard.py
    - Position your hand above the virtual game area
    - Move your hand left/right to control the paddle
    - Keep the ball in play to increase your score!
+  
+## 🎥 Showcase
+
+![Screen+Recording+2025-12-28+at+1 44 37 PM](https://github.com/user-attachments/assets/db6ccd2f-1e14-4ac4-a94a-0848db0e1d44)
+
 
 ## 📁 Project Structure
 
